@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".Main">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PoS App"
+            android:textSize="30sp"
+            android:textColor="@color/teal_700"
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:text="Catagory"
+            android:textSize="11dp"
+            android:id="@+id/btn"
+
+            android:layout_margin="10dp"
+
+            android:background="@color/navy_300"
+            android:textColor="@color/white"
+
+            />
+
+        <Button
+            android:id="@+id/btn2"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+
+            android:background="@color/navy_300"
+
+            android:text="Medicine Brand"
+            android:textSize="11dp"
+            android:textColor="@color/white"
+
+            />
+
+        <Button
+            android:id="@+id/btn3"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+
+            android:background="@color/navy_300"
+
+            android:text="Medicine"
+            android:textSize="11dp"
+            android:textColor="@color/white"
+
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:text="View Catagory"
+            android:textSize="11dp"
+            android:id="@+id/btn4"
+
+            android:layout_margin="10dp"
+
+            android:background="@color/navy_300"
+            android:textColor="@color/white"
+
+            />
+
+        <Button
+            android:id="@+id/btn5"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+
+            android:background="@color/navy_300"
+
+            android:text="View Medicine Brand"
+            android:textSize="11dp"
+            android:textColor="@color/white"
+
+            />
+
+        <Button
+            android:id="@+id/btn6"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+
+            android:background="@color/navy_300"
+
+            android:text="View Medicine"
+            android:textSize="11dp"
+            android:textColor="@color/white"
+
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:text="PoS"
+            android:textSize="11dp"
+            android:id="@+id/btn7"
+
+            android:layout_margin="10dp"
+
+            android:background="@color/navy_300"
+            android:textColor="@color/white"
+
+            />
+
+        <Button
+            android:id="@+id/btn8"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+
+            android:background="@color/navy_300"
+
+            android:text="View PoS"
+            android:textSize="11dp"
+            android:textColor="@color/white"
+
+            />
+
+        <Button
+            android:id="@+id/btn9"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+
+            android:background="@color/navy_300"
+
+            android:text="User"
+            android:textSize="11dp"
+            android:textColor="@color/white"
+
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:text="Log Out"
+            android:textSize="11dp"
+            android:id="@+id/btn10"
+
+            android:layout_margin="10dp"
+
+            android:background="@color/navy_300"
+            android:textColor="@color/white"
+
+            />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
