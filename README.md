@@ -9,3 +9,5 @@ With the rapid development of computer technology, mechanical registers in retai
 # Project Sequence Diagram
 ![300456085_402484371830572_8066228191427296458_n](https://user-images.githubusercontent.com/64844201/189433363-9337b210-fad5-43e4-961b-d1c27bf5156c.jpg)
 
+# Mobile App UI Interface
+<img width="559" alt="Screenshot_3" src="https://user-images.githubusercontent.com/64844201/189434000-8d6bf8bd-f3bd-40c3-98dd-5848a721ddb2.png">
